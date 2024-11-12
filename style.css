@@ -18,7 +18,7 @@ header img{
 .container{
     display: flex;
     background-color: #2c1d27;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 .adress{
     background-color: #2c1d27;
@@ -46,6 +46,7 @@ main{
     justify-content: start;
     width: 25%;
     color: white;
+    justify-content: flex-start;
 }
 h2{
     color: black;
@@ -61,7 +62,6 @@ section{
     width: 70%;
     background-color: white;
     flex-direction: column;
-    color: black;
 }
 img{
     width: 25px;
